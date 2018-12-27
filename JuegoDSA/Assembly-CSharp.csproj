@@ -55,10 +55,14 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\CameraMovement.cs" />
      <Compile Include="Assets\Scripts\Enemy.cs" />
+     <Compile Include="Assets\Scripts\HeartManager.cs" />
      <Compile Include="Assets\Scripts\Knockback.cs" />
      <Compile Include="Assets\Scripts\Monkey.cs" />
      <Compile Include="Assets\Scripts\PlayerMovement.cs" />
      <Compile Include="Assets\Scripts\RoomMove.cs" />
+     <Compile Include="Assets\Scripts\ScriptableObjects\FloatValue.cs" />
+     <Compile Include="Assets\Scripts\ScriptableObjects\Signal.cs" />
+     <Compile Include="Assets\Scripts\SignalListener.cs" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
