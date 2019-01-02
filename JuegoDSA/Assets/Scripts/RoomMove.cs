@@ -11,11 +11,13 @@ public class RoomMove : MonoBehaviour {
     public string placeName;
     public GameObject text;
     public Text placeText;
+    private GameMaster gm;
 
 
 	// Use this for initialization
 	void Start () {
         cam = Camera.main.GetComponent<CameraMovement>();
+        gm = GameObject.FindGameObjectWithTag("GM").GetComponent<GameMaster>();
 	}
 	
 	// Update is called once per frame
@@ -30,12 +32,12 @@ public class RoomMove : MonoBehaviour {
             cam.maxPosition += cameraChange;
 
             other.transform.position += playerChange;
-            checkPoint();
+            //checkPoint
+            Debug.Log("Ahora le diria a la API que estoy en: " + this.placeName);
+            gm.lastCheckPointPos = other.transform.position; 
+            //gm.lastHealth = 
         }
     }
-    private void checkPoint()
-    {
-        Debug.Log("Ahora le diria a la API que estoy en: "+this.placeName);
-        
-    }
+  //  private void checkPoint()
+ 
 }

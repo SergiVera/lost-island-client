@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public enum PlayerState
 {
@@ -19,6 +20,7 @@ public class PlayerMovement : MonoBehaviour {
     private Animator animator;
     public FloatValue currentHealth;
     public Signal playerHealthSignal;
+    private GameMaster gm;
 
 	// Use this for initialization
 	void Start () {
@@ -28,6 +30,8 @@ public class PlayerMovement : MonoBehaviour {
         myRigidbody = GetComponent<Rigidbody2D>();
         animator.SetFloat("moveX", 0);
         animator.SetFloat("moveY", -1);
+        gm = GameObject.FindGameObjectWithTag("GM").GetComponent<GameMaster>();
+        transform.position = gm.lastCheckPointPos;
 	}
 	
 	// Update is called once per frame
@@ -42,6 +46,11 @@ public class PlayerMovement : MonoBehaviour {
         else if(currentState == PlayerState.walk || currentState == PlayerState.idle)
         {
             UpdateAnimationAndMove();
+        }
+
+        if (Input.GetKeyDown(KeyCode.C))
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         }
    
 	}
@@ -77,6 +86,7 @@ public class PlayerMovement : MonoBehaviour {
     public void Knock(float knockTime, float damage)
     {
         currentHealth.RuntimeValue -= damage;
+        gm.lastHealth = currentHealth.RuntimeValue;
         playerHealthSignal.Raise(); //Notificar a todos los que escuchan que ha disminuido la vida
         if (currentHealth.RuntimeValue > 0)
         {
@@ -97,4 +107,5 @@ public class PlayerMovement : MonoBehaviour {
             currentState = PlayerState.idle;
         }
     }
+
 }
