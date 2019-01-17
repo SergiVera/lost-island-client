@@ -21,6 +21,7 @@ public class PlayerMovement : MonoBehaviour {
     public FloatValue currentHealth;
     public Signal playerHealthSignal;
     private GameMaster gm;
+    public Joystick joystick;
 
 	// Use this for initialization
 	void Start () {
@@ -37,8 +38,11 @@ public class PlayerMovement : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
         change = Vector3.zero;
-        change.x = Input.GetAxisRaw("Horizontal");
-        change.y = Input.GetAxisRaw("Vertical");
+        change.x = joystick.Horizontal;
+        change.y = joystick.Vertical;
+        /*CONTROLES PC:
+         * change.x = Input.GetAxisRaw("Horizontal");
+        change.y = Input.GetAxisRaw("Vertical");*/
         if (Input.GetButtonDown("attack") && currentState != PlayerState.attack && currentState != PlayerState.stagger)
         {
             StartCoroutine(AttackCo());
