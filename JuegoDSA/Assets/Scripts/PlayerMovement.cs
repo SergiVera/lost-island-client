@@ -11,7 +11,7 @@ public enum PlayerState
     stagger,
     idle
 }
-public class PlayerMovement : MonoBehaviour {
+public class PlayerMovement : MonoBehaviour{
 
     public float speed;
     public PlayerState currentState;
@@ -22,7 +22,8 @@ public class PlayerMovement : MonoBehaviour {
     public Signal playerHealthSignal;
     private GameMaster gm;
     public Joystick joystick;
-
+    public Joybutton joybutton;
+  
 	// Use this for initialization
 	void Start () {
         currentState = PlayerState.walk;
@@ -33,6 +34,7 @@ public class PlayerMovement : MonoBehaviour {
         animator.SetFloat("moveY", -1);
         gm = GameObject.FindGameObjectWithTag("GM").GetComponent<GameMaster>();
         transform.position = gm.lastCheckPointPos;
+        joybutton = FindObjectOfType<Joybutton>();
 	}
 	
 	// Update is called once per frame
@@ -43,7 +45,7 @@ public class PlayerMovement : MonoBehaviour {
         /*CONTROLES PC:
          * change.x = Input.GetAxisRaw("Horizontal");
         change.y = Input.GetAxisRaw("Vertical");*/
-        if (Input.GetButtonDown("attack") && currentState != PlayerState.attack && currentState != PlayerState.stagger)
+        if ((Input.GetButtonDown("attack") || joybutton.Pressed) && currentState != PlayerState.attack && currentState != PlayerState.stagger)
         {
             StartCoroutine(AttackCo());
         }

@@ -9,17 +9,18 @@ public class Sign : MonoBehaviour
     public Text dialogText;
     public string dialog;
     public bool playerInRange;
+    public Joybutton joybutton;
 
     // Start is called before the first frame update
     void Start()
     {
-        
+        joybutton = FindObjectOfType<Joybutton>();
     }
 
     // Update is called once per frame
     void Update()
     { 
-        if (Input.GetKeyDown(KeyCode.Space) && playerInRange)
+        if ((Input.GetKeyDown(KeyCode.Space)|| joybutton.Pressed) && playerInRange)
         {
             if (dialogBox.activeInHierarchy)
             {
