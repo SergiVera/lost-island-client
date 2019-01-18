@@ -12,9 +12,10 @@
         android:id="@+id/launchgamebtn"
         android:layout_width="216dp"
         android:layout_height="51dp"
-        android:layout_marginTop="360dp"
+        android:layout_marginTop="352dp"
         android:text="LAUNCH GAME"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.494"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
