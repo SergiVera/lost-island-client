@@ -70,7 +70,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 1587513595
-  m_SortingLayer: 1
+  m_SortingLayer: 2
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 256d4dc2062c5b44da6e35883d44fee0, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -146,6 +146,11 @@ MonoBehaviour:
   currentState: 0
   currentHealth: {fileID: 0}
   playerHealthSignal: {fileID: 0}
+  joystick: {fileID: 0}
+  joybutton: {fileID: 0}
+  apimanager: {fileID: 0}
+  playerInventory: {fileID: 0}
+  receivedItemSprite: {fileID: 0}
 --- !u!95 &95027910522719306
 Animator:
   serializedVersion: 3

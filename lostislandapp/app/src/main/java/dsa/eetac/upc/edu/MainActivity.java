@@ -15,7 +15,6 @@ import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
 
@@ -199,12 +198,12 @@ public class MainActivity extends AppCompatActivity {
         }
     };
 
-    Callback<UserStats> myStatsCallBack = new Callback<UserStats>(){
+    Callback<UserAttributes> myStatsCallBack = new Callback<UserAttributes>(){
 
         @Override
-        public void onResponse(Call<UserStats> call, Response<UserStats> response) {
+        public void onResponse(Call<UserAttributes> call, Response<UserAttributes> response) {
             if (response.isSuccessful()) {
-                List<UserStats> data = new ArrayList<>();
+                List<UserAttributes> data = new ArrayList<>();
                 data.add(response.body());
                 listObjects.setAdapter(new AdapterRecyclerUserStats(data));
                 progressDialog.hide();
@@ -225,7 +224,7 @@ public class MainActivity extends AppCompatActivity {
         }
 
         @Override
-        public void onFailure(Call<UserStats> call, Throwable t) {
+        public void onFailure(Call<UserAttributes> call, Throwable t) {
 
         }
     };

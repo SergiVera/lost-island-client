@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{9D759245-9600-765C-ED1A-8ACB172DE508}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Game Stuff/PlayerMovement.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Game Stuff/APIManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Game Stuff/CameraMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Game Stuff/Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Game Stuff/HeartManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Game Stuff/Joybutton.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Game Stuff/PlayerMovement.cs" Line="95" Column="51" />
+      <File FileName="Assets/Scripts/Objects/Chest.cs" Line="15" Column="24" />
+      <File FileName="Assets/Scripts/Objects/Sign.cs" Line="11" Column="31" />
+      <File FileName="Assets/Scripts/Game Stuff/SignalListener.cs" Line="14" Column="1" />
+      <File FileName="Assets/Scripts/ScriptableObjects/Signal.cs" Line="16" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Assets/Scripts/Game Stuff/PlayerMovement.cs" relfile="Assets/Scripts/Game Stuff/PlayerMovement.cs" line="97" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

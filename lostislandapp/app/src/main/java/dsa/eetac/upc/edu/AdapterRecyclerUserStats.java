@@ -9,7 +9,7 @@ import android.widget.TextView;
 import java.util.List;
 
 public class AdapterRecyclerUserStats extends RecyclerView.Adapter<AdapterRecyclerUserStats.ViewHolder> {
-    private List<UserStats> data;
+    private List<UserAttributes> data;
 
     public class ViewHolder extends RecyclerView.ViewHolder {
         public TextView text;
@@ -22,7 +22,7 @@ public class AdapterRecyclerUserStats extends RecyclerView.Adapter<AdapterRecycl
         }
     }
 
-    public AdapterRecyclerUserStats(List<UserStats> data) {
+    public AdapterRecyclerUserStats(List<UserAttributes> data) {
         this.data = data;
     }
 
@@ -35,7 +35,7 @@ public class AdapterRecyclerUserStats extends RecyclerView.Adapter<AdapterRecycl
 
     @Override
     public void onBindViewHolder(AdapterRecyclerUserStats.ViewHolder holder, int position) {
-        UserStats obj = data.get(position);
+        UserAttributes obj = data.get(position);
         holder.text.setText(obj.toString());
         holder.itemView.setTag(obj.getAttack());//por ver
         // holder.btn.setText("edit");
