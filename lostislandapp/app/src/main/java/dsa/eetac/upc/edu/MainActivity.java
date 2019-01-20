@@ -36,26 +36,28 @@ public class MainActivity extends AppCompatActivity {
     private TextView moneyText;
     private TextView levelText;
 
+    private int id;
 
     ProgressDialog progressDialog;
     AdapterRecycler adapter;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        int id = Integer.parseInt(getIntent().getExtras().getString("id"));
+        id = Integer.parseInt(getIntent().getExtras().getString("id"));
         shopBtn = findViewById(R.id.shop_btn);
         scoreboardBtn = findViewById(R.id.score_btn);
 
-        userText =  findViewById(R.id.username_txt);
-        moneyText =  findViewById(R.id.money_txt);
-        levelText =  findViewById(R.id.level_txt);
+        userText = findViewById(R.id.username_txt);
+        moneyText = findViewById(R.id.money_txt);
+        levelText = findViewById(R.id.level_txt);
 
         unityButton = findViewById(R.id.play_btn);
         unityButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(MainActivity.this,ConfigurationActivity.class));
+                startActivity(new Intent(MainActivity.this, ConfigurationActivity.class));
             }
         });
         adapter = new AdapterRecycler(this);
@@ -70,11 +72,11 @@ public class MainActivity extends AppCompatActivity {
         progressDialog.setCancelable(false);
         progressDialog.setProgressStyle(ProgressDialog.STYLE_HORIZONTAL);
         progressDialog.show();
-        myStatsLoad(id);
+        myStatsLoad();
         progressDialog.hide();
     }
 
-    public void listObjectsClick(View v){
+    public void listObjectsClick(View v) {
         myapirest.getAllObjects().enqueue(objectsCallBack);
         progressDialog.setTitle("Loading...");
         progressDialog.setMessage("Waiting for the server");
@@ -84,7 +86,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    public void scoreBoardClick(View v){
+    public void scoreBoardClick(View v) {
         myapirest.allStats().enqueue(statsCallBack);
         progressDialog.setTitle("Loading...");
         progressDialog.setMessage("Waiting for the server");
@@ -94,7 +96,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    public void myStatsLoad(int id){
+    public void myStatsLoad() {
         myapirest.userAttributes(id).enqueue(myStatsCallBack);
         progressDialog.setTitle("Loading...");
         progressDialog.setMessage("Waiting for the server");
@@ -104,7 +106,79 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    Callback<List<GameObject>> objectsCallBack = new Callback<List<GameObject>>(){
+    public void deleteAntennaPart(int idGameObject){
+        myapirest.deleteAntennaPart(id,idGameObject).enqueue(deleteAntennaPartCall);
+    }
+
+    public void deleteEnemyUser(int idEnemy){
+        myapirest.deleteEnemyUser(id,idEnemy).enqueue(deleteEnemyUserCall);
+    }
+    public List<Enemy> getEnemiesUser(){
+        List<Enemy> data = null;
+        Callback<List<Enemy>> getEnemiesUserCall = new Callback<List<Enemy>>() {
+            @Override
+            public void onResponse(Call<List<Enemy>> call, Response<List<Enemy>> response) {
+                if (response.isSuccessful()) {
+                    data.addAll(response.body());
+                    //listObjects.setAdapter(new AdapterRecyclerUserStats(data));
+                   // progressDialog.hide();
+                } else {
+                    Log.d("QuestionsCallback", "Code: " + response.code() + " Message: " + response.message());
+                    AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(MainActivity.this);
+
+                    alertDialogBuilder
+                            .setTitle("Error")
+                            .setMessage(response.message())
+                            .setCancelable(false)
+                            .setPositiveButton("OK", (dialog, which) -> {
+                            });
+
+                    AlertDialog alertDialog = alertDialogBuilder.create();
+                    alertDialog.show();
+                }
+            }
+
+            @Override
+            public void onFailure(Call<List<Enemy>> call, Throwable t) {
+
+            }
+        };
+        myapirest.getEnemiesUser(id).enqueue(getEnemiesUserCall);
+        return data;
+    }
+
+    public void finishUserGame(){
+        myapirest.finishUserGame(id).enqueue(finishUserGameCall);
+    }
+
+    public void modifyAttributes(int idObject){
+        myapirest.updateUserAttributes(id,idObject).enqueue(updateUserAttributesCall);
+    }
+
+    public void sellObjects(int idObject){
+        myapirest.sellObject(id,idObject).enqueue(sellObjectCall);
+    }
+
+    public void updateEnemyUser(int idEnemy,int enemyLife){
+        myapirest.updateEnemyUser(id, idEnemy,enemyLife).enqueue(updateEnemyUserCall);
+    }
+
+    public void updateCurrentHealth(int currentHealth){
+        myapirest.updateCurrentHealthUser(id,currentHealth).enqueue(updateCurrentHealthUserCall);
+    }
+
+    public void updateKilledEnemiesUser(int enemiesKilled){
+        myapirest.updateKilledEnemiesUser(id,enemiesKilled).enqueue(updateKilledEnemiesUserCall);
+    }
+
+    public void updatePointsUser(int points){
+        myapirest.updatePointsUser(id,points).enqueue(updatePointsUserCall);
+    }
+
+    public void updateStatusUser(int idMap){
+        myapirest.updateStatusUser(id, idMap).enqueue(updateStatusUserCall);
+    }
+    Callback<List<GameObject>> objectsCallBack = new Callback<List<GameObject>>() {
 
         @Override
         public void onResponse(Call<List<GameObject>> call, Response<List<GameObject>> response) {
@@ -136,18 +210,18 @@ public class MainActivity extends AppCompatActivity {
         }
     };
 
-    Callback<List<Stats>> statsCallBack = new Callback<List<Stats>>(){
+    Callback<List<Stats>> statsCallBack = new Callback<List<Stats>>() {
 
         @Override
         public void onResponse(Call<List<Stats>> call, Response<List<Stats>> response) {
             if (response.isSuccessful()) {
                 List<Stats> data = new ArrayList<>();
                 data.addAll(response.body());
-                Collections.sort(data,(d1,d2)->d1.getUsername().compareTo(d2.getUsername()));
+                Collections.sort(data, (d1, d2) -> d1.getUsername().compareTo(d2.getUsername()));
                 listObjects.setAdapter(new AdapterRecyclerStats(data));
-                userText.setText("Username: "+data.get(0).getUsername());
-                levelText.setText("Level: "+data.get(0).getLevel());
-                moneyText.setText("Points: "+data.get(0).getPoints());
+                userText.setText("Username: " + data.get(0).getUsername());
+                levelText.setText("Level: " + data.get(0).getLevel());
+                moneyText.setText("Points: " + data.get(0).getPoints());
                 progressDialog.hide();
             } else {
                 Log.d("QuestionsCallback", "Code: " + response.code() + " Message: " + response.message());
@@ -172,7 +246,7 @@ public class MainActivity extends AppCompatActivity {
         }
     };
 
-    Callback<UserAttributes> myStatsCallBack = new Callback<UserAttributes>(){
+    Callback<UserAttributes> myStatsCallBack = new Callback<UserAttributes>() {
 
         @Override
         public void onResponse(Call<UserAttributes> call, Response<UserAttributes> response) {
@@ -203,6 +277,328 @@ public class MainActivity extends AppCompatActivity {
         }
     };
 
+    Callback<Void> buyObjectCall = new Callback<Void>() {
 
-    
+        @Override
+        public void onResponse(Call<Void> call, Response<Void> response) {
+            if (response.isSuccessful()) {
+
+                //listObjects.setAdapter(new AdapterRecyclerUserStats(data));
+                progressDialog.hide();
+            } else {
+                Log.d("QuestionsCallback", "Code: " + response.code() + " Message: " + response.message());
+                AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(MainActivity.this);
+
+                alertDialogBuilder
+                        .setTitle("Error")
+                        .setMessage(response.message())
+                        .setCancelable(false)
+                        .setPositiveButton("OK", (dialog, which) -> {
+                        });
+
+                AlertDialog alertDialog = alertDialogBuilder.create();
+                alertDialog.show();
+            }
+        }
+
+        @Override
+        public void onFailure(Call<Void> call, Throwable t) {
+
+        }
+    };
+
+    Callback<Void> sellObjectCall = new Callback<Void>() {
+        @Override
+        public void onResponse(Call<Void> call, Response<Void> response) {
+            if (response.isSuccessful()) {
+
+                //listObjects.setAdapter(new AdapterRecyclerUserStats(data));
+                progressDialog.hide();
+            } else {
+                Log.d("QuestionsCallback", "Code: " + response.code() + " Message: " + response.message());
+                AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(MainActivity.this);
+
+                alertDialogBuilder
+                        .setTitle("Error")
+                        .setMessage(response.message())
+                        .setCancelable(false)
+                        .setPositiveButton("OK", (dialog, which) -> {
+                        });
+
+                AlertDialog alertDialog = alertDialogBuilder.create();
+                alertDialog.show();
+            }
+        }
+
+        @Override
+        public void onFailure(Call<Void> call, Throwable t) {
+
+        }
+    };
+
+    Callback<Void> deleteAntennaPartCall = new Callback<Void>() {
+
+
+        @Override
+        public void onResponse(Call<Void> call, Response<Void> response) {
+            if (response.isSuccessful()) {
+
+                //listObjects.setAdapter(new AdapterRecyclerUserStats(data));
+                progressDialog.hide();
+            } else {
+                Log.d("QuestionsCallback", "Code: " + response.code() + " Message: " + response.message());
+                AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(MainActivity.this);
+
+                alertDialogBuilder
+                        .setTitle("Error")
+                        .setMessage(response.message())
+                        .setCancelable(false)
+                        .setPositiveButton("OK", (dialog, which) -> {
+                        });
+
+                AlertDialog alertDialog = alertDialogBuilder.create();
+                alertDialog.show();
+            }
+        }
+
+        @Override
+        public void onFailure(Call<Void> call, Throwable t) {
+
+        }
+    };
+
+    Callback<Void> deleteEnemyUserCall = new Callback<Void>(){
+
+        @Override
+        public void onResponse(Call<Void> call, Response<Void> response) {
+            if (response.isSuccessful()) {
+
+                //listObjects.setAdapter(new AdapterRecyclerUserStats(data));
+                progressDialog.hide();
+            } else {
+                Log.d("QuestionsCallback", "Code: " + response.code() + " Message: " + response.message());
+                AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(MainActivity.this);
+
+                alertDialogBuilder
+                        .setTitle("Error")
+                        .setMessage(response.message())
+                        .setCancelable(false)
+                        .setPositiveButton("OK", (dialog, which) -> {
+                        });
+
+                AlertDialog alertDialog = alertDialogBuilder.create();
+                alertDialog.show();
+            }
+        }
+
+        @Override
+        public void onFailure(Call<Void> call, Throwable t) {
+
+        }
+    };
+
+
+    Callback<Void> finishUserGameCall = new Callback<Void>() {
+        @Override
+        public void onResponse(Call<Void> call, Response<Void> response) {
+            if (response.isSuccessful()) {
+
+                //listObjects.setAdapter(new AdapterRecyclerUserStats(data));
+                progressDialog.hide();
+            } else {
+                Log.d("QuestionsCallback", "Code: " + response.code() + " Message: " + response.message());
+                AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(MainActivity.this);
+
+                alertDialogBuilder
+                        .setTitle("Error")
+                        .setMessage(response.message())
+                        .setCancelable(false)
+                        .setPositiveButton("OK", (dialog, which) -> {
+                        });
+
+                AlertDialog alertDialog = alertDialogBuilder.create();
+                alertDialog.show();
+            }
+        }
+
+        @Override
+        public void onFailure(Call<Void> call, Throwable t) {
+
+        }
+    };
+
+    Callback<Void> updateUserAttributesCall = new Callback<Void>() {
+        @Override
+        public void onResponse(Call<Void> call, Response<Void> response) {
+            if (response.isSuccessful()) {
+
+                //listObjects.setAdapter(new AdapterRecyclerUserStats(data));
+                progressDialog.hide();
+            } else {
+                Log.d("QuestionsCallback", "Code: " + response.code() + " Message: " + response.message());
+                AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(MainActivity.this);
+
+                alertDialogBuilder
+                        .setTitle("Error")
+                        .setMessage(response.message())
+                        .setCancelable(false)
+                        .setPositiveButton("OK", (dialog, which) -> {
+                        });
+
+                AlertDialog alertDialog = alertDialogBuilder.create();
+                alertDialog.show();
+            }
+        }
+
+        @Override
+        public void onFailure(Call<Void> call, Throwable t) {
+
+        }
+    };
+
+    Callback<Void> updateEnemyUserCall = new Callback<Void>() {
+        @Override
+        public void onResponse(Call<Void> call, Response<Void> response) {
+            if (response.isSuccessful()) {
+
+                //listObjects.setAdapter(new AdapterRecyclerUserStats(data));
+                progressDialog.hide();
+            } else {
+                Log.d("QuestionsCallback", "Code: " + response.code() + " Message: " + response.message());
+                AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(MainActivity.this);
+
+                alertDialogBuilder
+                        .setTitle("Error")
+                        .setMessage(response.message())
+                        .setCancelable(false)
+                        .setPositiveButton("OK", (dialog, which) -> {
+                        });
+
+                AlertDialog alertDialog = alertDialogBuilder.create();
+                alertDialog.show();
+            }
+        }
+
+        @Override
+        public void onFailure(Call<Void> call, Throwable t) {
+
+        }
+    };
+
+    Callback<Void> updateCurrentHealthUserCall = new Callback<Void>() {
+        @Override
+        public void onResponse(Call<Void> call, Response<Void> response) {
+            if (response.isSuccessful()) {
+
+                //listObjects.setAdapter(new AdapterRecyclerUserStats(data));
+                progressDialog.hide();
+            } else {
+                Log.d("QuestionsCallback", "Code: " + response.code() + " Message: " + response.message());
+                AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(MainActivity.this);
+
+                alertDialogBuilder
+                        .setTitle("Error")
+                        .setMessage(response.message())
+                        .setCancelable(false)
+                        .setPositiveButton("OK", (dialog, which) -> {
+                        });
+
+                AlertDialog alertDialog = alertDialogBuilder.create();
+                alertDialog.show();
+            }
+        }
+
+        @Override
+        public void onFailure(Call<Void> call, Throwable t) {
+
+        }
+    };
+
+    Callback<Void> updateKilledEnemiesUserCall = new Callback<Void>() {
+        @Override
+        public void onResponse(Call<Void> call, Response<Void> response) {
+            if (response.isSuccessful()) {
+
+                //listObjects.setAdapter(new AdapterRecyclerUserStats(data));
+                progressDialog.hide();
+            } else {
+                Log.d("QuestionsCallback", "Code: " + response.code() + " Message: " + response.message());
+                AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(MainActivity.this);
+
+                alertDialogBuilder
+                        .setTitle("Error")
+                        .setMessage(response.message())
+                        .setCancelable(false)
+                        .setPositiveButton("OK", (dialog, which) -> {
+                        });
+
+                AlertDialog alertDialog = alertDialogBuilder.create();
+                alertDialog.show();
+            }
+        }
+
+        @Override
+        public void onFailure(Call<Void> call, Throwable t) {
+
+        }
+    };
+
+    Callback<Void> updatePointsUserCall = new Callback<Void>() {
+        @Override
+        public void onResponse(Call<Void> call, Response<Void> response) {
+            if (response.isSuccessful()) {
+
+                //listObjects.setAdapter(new AdapterRecyclerUserStats(data));
+                progressDialog.hide();
+            } else {
+                Log.d("QuestionsCallback", "Code: " + response.code() + " Message: " + response.message());
+                AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(MainActivity.this);
+
+                alertDialogBuilder
+                        .setTitle("Error")
+                        .setMessage(response.message())
+                        .setCancelable(false)
+                        .setPositiveButton("OK", (dialog, which) -> {
+                        });
+
+                AlertDialog alertDialog = alertDialogBuilder.create();
+                alertDialog.show();
+            }
+        }
+
+        @Override
+        public void onFailure(Call<Void> call, Throwable t) {
+
+        }
+    };
+
+    Callback<Void> updateStatusUserCall = new Callback<Void>() {
+        @Override
+        public void onResponse(Call<Void> call, Response<Void> response) {
+            if (response.isSuccessful()) {
+
+                //listObjects.setAdapter(new AdapterRecyclerUserStats(data));
+                progressDialog.hide();
+            } else {
+                Log.d("QuestionsCallback", "Code: " + response.code() + " Message: " + response.message());
+                AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(MainActivity.this);
+
+                alertDialogBuilder
+                        .setTitle("Error")
+                        .setMessage(response.message())
+                        .setCancelable(false)
+                        .setPositiveButton("OK", (dialog, which) -> {
+                        });
+
+                AlertDialog alertDialog = alertDialogBuilder.create();
+                alertDialog.show();
+            }
+        }
+
+        @Override
+        public void onFailure(Call<Void> call, Throwable t) {
+
+        }
+    } ;
 }
+
