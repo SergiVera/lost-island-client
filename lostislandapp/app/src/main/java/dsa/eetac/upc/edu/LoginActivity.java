@@ -72,7 +72,8 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
             @Override
             public void onClick(View view) {
                 mLoginFormView.setVisibility(View.VISIBLE);
-                attemptLogin();
+                //attemptLogin();
+                newIntent();
                 mProgressView.setVisibility(View.GONE);
             }
         });
@@ -198,8 +199,8 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
 
     private void newIntent(){
         Intent intent = new Intent(this, MainActivity.class);
-        Log.i("ID en newIntent(): ", String.valueOf(id));
-        intent.putExtra(EXTRA_MESSAGE,id);
+       // Log.i("ID en newIntent(): ", String.valueOf(id));
+        //intent.putExtra(EXTRA_MESSAGE,id);
         startActivity(intent);
     }
 }

@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
     private TextView levelText;
 
     private String idintent;
-    private int id;
+    private int id =1;
 
     ProgressDialog progressDialog;
     AdapterRecycler adapter;
@@ -46,9 +46,9 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Intent intent = getIntent();
-        idintent = intent.getStringExtra(LoginActivity.EXTRA_MESSAGE);
-        Log.i("ID en el MainActivity: ", idintent);
+       // Intent intent = getIntent();
+        /*idintent = intent.getStringExtra(LoginActivity.EXTRA_MESSAGE);
+        Log.i("ID en el MainActivity: ", idintent);*/
         shopBtn = findViewById(R.id.shop_btn);
         scoreboardBtn = findViewById(R.id.score_btn);
 
@@ -97,10 +97,6 @@ public class MainActivity extends AppCompatActivity {
         progressDialog.setProgressStyle(ProgressDialog.STYLE_HORIZONTAL);
         progressDialog.show();
 
-    }
-
-    public void buyObjectClick(View v){
-        //myapirest.buyObject(id,idObject).enqueue(buyObjectCall);
     }
 
     public void myStatsLoad() {
@@ -230,7 +226,7 @@ public class MainActivity extends AppCompatActivity {
                 List<GameObject> data = new ArrayList<>();
                 data.addAll(response.body());
                 listObjects.setAdapter(adapter);
-                adapter.addElements(data);
+                adapter.addElements(data,id);
                 progressDialog.hide();
             } else {
                 Log.d("QuestionsCallback", "Code: " + response.code() + " Message: " + response.message());
