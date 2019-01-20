@@ -1,8 +1,13 @@
 package dsa.eetac.upc.edu;
 
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
+
 import java.util.List;
 
 import retrofit2.Call;
+import retrofit2.Retrofit;
+import retrofit2.converter.gson.GsonConverterFactory;
 import retrofit2.http.Body;
 import retrofit2.http.DELETE;
 import retrofit2.http.GET;
@@ -13,6 +18,19 @@ import retrofit2.http.Path;
 
 public interface GameApi {
     String BASE_URL = "http://147.83.7.155:8080/dsaApp/";
+
+    static GameApi createAPIRest() {
+        Gson gson = new GsonBuilder()
+                .setDateFormat("yyyy-MM-dd'T'HH:mm:ssZ")
+                .create();
+
+        Retrofit retrofit = new Retrofit.Builder()
+                .baseUrl(BASE_URL)
+                .addConverterFactory(GsonConverterFactory.create(gson))
+                .build();
+
+        return retrofit.create(GameApi.class);
+    }
 
     /**
      * Return the userattributes of the user if the login is successful
@@ -175,4 +193,5 @@ public interface GameApi {
      */
     @PUT("maps/{idUser}/savestatus/{idGameMap}")
     Call<Void> updateStatusUser(@Path("idUser") int idUser, @Path("idGameMap") int idGameMap);
+
 }

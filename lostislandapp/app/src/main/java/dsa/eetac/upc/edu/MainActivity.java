@@ -26,7 +26,7 @@ import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 public class MainActivity extends AppCompatActivity {
-    private GameApi gameApi;
+    private GameApi myapirest;
     private RecyclerView listObjects;
     private Button shopBtn;
     private Button scoreboardBtn;
@@ -61,7 +61,7 @@ public class MainActivity extends AppCompatActivity {
         listObjects = (RecyclerView) findViewById(R.id.recyclerView);
         listObjects.setHasFixedSize(true);
         listObjects.setLayoutManager(new LinearLayoutManager(MainActivity.this));
-        createGameApi();
+        myapirest = GameApi.createAPIRest();
         //Progress loading
         progressDialog = new ProgressDialog(this);
         progressDialog.setTitle("Loading...");
@@ -72,18 +72,9 @@ public class MainActivity extends AppCompatActivity {
         myStatsLoad();
         progressDialog.hide();
     }
-    private void createGameApi() {
-        Gson gson = new GsonBuilder().create();
 
-        Retrofit retrofit = new Retrofit.Builder()
-                .baseUrl(GameApi.BASE_URL)
-                .addConverterFactory(GsonConverterFactory.create(gson))
-                .build();
-
-        gameApi = retrofit.create(GameApi.class);
-    }
     public void listObjectsClick(View v){
-        gameApi.getAllObjects().enqueue(objectsCallBack);
+        myapirest.getAllObjects().enqueue(objectsCallBack);
         progressDialog.setTitle("Loading...");
         progressDialog.setMessage("Waiting for the server");
         progressDialog.setCancelable(false);
@@ -93,7 +84,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void scoreBoardClick(View v){
-        gameApi.allStats().enqueue(statsCallBack);
+        myapirest.allStats().enqueue(statsCallBack);
         progressDialog.setTitle("Loading...");
         progressDialog.setMessage("Waiting for the server");
         progressDialog.setCancelable(false);
@@ -103,7 +94,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void myStatsLoad(){
-        gameApi.userAttributes(1).enqueue(myStatsCallBack);
+        myapirest.userAttributes(1).enqueue(myStatsCallBack);
         progressDialog.setTitle("Loading...");
         progressDialog.setMessage("Waiting for the server");
         progressDialog.setCancelable(false);

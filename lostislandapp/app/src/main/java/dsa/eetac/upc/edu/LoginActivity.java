@@ -35,12 +35,18 @@ import android.widget.TextView;
 import java.util.ArrayList;
 import java.util.List;
 
+import retrofit2.Call;
+import retrofit2.Callback;
+import retrofit2.Response;
+
 import static android.Manifest.permission.READ_CONTACTS;
 
 /**
  * A login screen that offers login via email/password.
  */
 public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<Cursor> {
+
+    private GameApi myapirest;
 
     /**
      * Id to identity READ_CONTACTS permission request.
@@ -97,6 +103,8 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
 
         mLoginFormView = findViewById(R.id.login_form);
         mProgressView = findViewById(R.id.login_progress);
+
+        myapirest = GameApi.createAPIRest();
     }
 
     private void populateAutoComplete() {
@@ -161,38 +169,59 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
         String email = mEmailView.getText().toString();
         String password = mPasswordView.getText().toString();
 
-        boolean cancel = false;
-        View focusView = null;
+        User user = new User(email, password);
 
-        // Check for a valid password, if the user entered one.
-        if (!TextUtils.isEmpty(password) && !isPasswordValid(password)) {
-            mPasswordView.setError(getString(R.string.error_invalid_password));
-            focusView = mPasswordView;
-            cancel = true;
-        }
+        Call<UserAttributes> login = myapirest.login(user);
 
-        // Check for a valid email address.
-        if (TextUtils.isEmpty(email)) {
-            mEmailView.setError(getString(R.string.error_field_required));
-            focusView = mEmailView;
-            cancel = true;
-        } else if (!isEmailValid(email)) {
-            mEmailView.setError(getString(R.string.error_invalid_email));
-            focusView = mEmailView;
-            cancel = true;
-        }
+        login.enqueue(new Callback<UserAttributes>() {
+            @Override
+            public void onResponse(Call<UserAttributes> call, Response<UserAttributes> response) {
+                if(response.isSuccessful()){
+                    boolean cancel = false;
+                    View focusView = null;
 
-        if (cancel) {
-            // There was an error; don't attempt login and focus the first
-            // form field with an error.
-            focusView.requestFocus();
-        } else {
-            // Show a progress spinner, and kick off a background task to
-            // perform the user login attempt.
-            showProgress(true);
-            mAuthTask = new UserLoginTask(email, password);
-            mAuthTask.execute((Void) null);
-        }
+                    addCredentials(email.concat("@example.com"), password);
+
+                    // Check for a valid password, if the user entered one.
+                    if (!TextUtils.isEmpty(password) && !isPasswordValid(password)) {
+                        mPasswordView.setError(getString(R.string.error_invalid_password));
+                        focusView = mPasswordView;
+                        cancel = true;
+                    }
+
+                    // Check for a valid email address.
+                    if (TextUtils.isEmpty(email)) {
+                        mEmailView.setError(getString(R.string.error_field_required));
+                        focusView = mEmailView;
+                        cancel = true;
+                    } else if (!isEmailValid(email)) {
+                        mEmailView.setError(getString(R.string.error_invalid_email));
+                        focusView = mEmailView;
+                        cancel = true;
+                    }
+
+                    if (cancel) {
+                        // There was an error; don't attempt login and focus the first
+                        // form field with an error.
+                        focusView.requestFocus();
+                    } else {
+                        // Show a progress spinner, and kick off a background task to
+                        // perform the user login attempt.
+                        showProgress(true);
+                        mAuthTask = new UserLoginTask(email, password);
+                        mAuthTask.execute((Void) null);
+                    }
+                }
+                else{
+
+                }
+            }
+
+            @Override
+            public void onFailure(Call<UserAttributes> call, Throwable t) {
+
+            }
+        });
     }
 
     private boolean isEmailValid(String email) {
@@ -358,6 +387,7 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
             showProgress(false);
         }
     }
+
     private void newIntent(){
         Intent intent = new Intent(this, MainActivity.class);
         startActivity(intent);
