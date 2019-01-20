@@ -33,6 +33,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
+import com.google.gson.Gson;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -46,6 +48,8 @@ import static android.Manifest.permission.READ_CONTACTS;
  * A login screen that offers login via email/password.
  */
 public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<Cursor> {
+
+    public static final String EXTRA_MESSAGE = "com.example.myfirstapp.MESSAGE";
 
     private GameApi myapirest;
     private int id;
@@ -94,10 +98,13 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
             @Override
             public void onResponse(Call<UserAttributes> call, Response<UserAttributes> response) {
                 if(response.isSuccessful()){
-                    id = response.body().getUser_id();
+                    UserAttributes userAttributes = response.body();
+                    id = userAttributes.getUser_id();
+                    Log.i("Id en response: ", String.valueOf(id));
                     newIntent();
                 }
                 else{
+                    Log.i("Estoy en else: ", response.message());
                     //chapuza pa probar que no puedo con el log
                     mEmailView.setText("invalid");
                 }
@@ -191,7 +198,8 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
 
     private void newIntent(){
         Intent intent = new Intent(this, MainActivity.class);
-        intent.putExtra("id",id);
+        Log.i("ID en newIntent(): ", String.valueOf(id));
+        intent.putExtra(EXTRA_MESSAGE,id);
         startActivity(intent);
     }
 }

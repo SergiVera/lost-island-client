@@ -36,6 +36,7 @@ public class MainActivity extends AppCompatActivity {
     private TextView moneyText;
     private TextView levelText;
 
+    private String idintent;
     private int id;
 
     ProgressDialog progressDialog;
@@ -45,7 +46,9 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        id = Integer.parseInt(getIntent().getExtras().getString("id"));
+        Intent intent = getIntent();
+        idintent = intent.getStringExtra(LoginActivity.EXTRA_MESSAGE);
+        Log.i("ID en el MainActivity: ", idintent);
         shopBtn = findViewById(R.id.shop_btn);
         scoreboardBtn = findViewById(R.id.score_btn);
 
@@ -113,6 +116,7 @@ public class MainActivity extends AppCompatActivity {
     public void deleteEnemyUser(int idEnemy){
         myapirest.deleteEnemyUser(id,idEnemy).enqueue(deleteEnemyUserCall);
     }
+
     public List<Enemy> getEnemiesUser(){
         List<Enemy> data = null;
         Callback<List<Enemy>> getEnemiesUserCall = new Callback<List<Enemy>>() {
@@ -147,6 +151,40 @@ public class MainActivity extends AppCompatActivity {
         return data;
     }
 
+    public UserAttributes getAttributesUser(){
+        UserAttributes data = null;
+        Callback<UserAttributes> getAttributesUserCall = new Callback<UserAttributes>() {
+
+            @Override
+            public void onResponse(Call<UserAttributes> call, Response<UserAttributes> response) {
+                if (response.isSuccessful()) {
+                    //data = response.body();
+                    progressDialog.hide();
+                } else {
+                    Log.d("QuestionsCallback", "Code: " + response.code() + " Message: " + response.message());
+                    AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(MainActivity.this);
+
+                    alertDialogBuilder
+                            .setTitle("Error")
+                            .setMessage(response.message())
+                            .setCancelable(false)
+                            .setPositiveButton("OK", (dialog, which) -> {
+                            });
+
+                    AlertDialog alertDialog = alertDialogBuilder.create();
+                    alertDialog.show();
+                }
+            }
+
+            @Override
+            public void onFailure(Call<UserAttributes> call, Throwable t) {
+                t.printStackTrace();
+            }
+        };
+        myapirest.userAttributes(id).enqueue(getAttributesUserCall);
+        return data;
+    }
+
     public void finishUserGame(){
         myapirest.finishUserGame(id).enqueue(finishUserGameCall);
     }
@@ -178,6 +216,7 @@ public class MainActivity extends AppCompatActivity {
     public void updateStatusUser(int idMap){
         myapirest.updateStatusUser(id, idMap).enqueue(updateStatusUserCall);
     }
+
     Callback<List<GameObject>> objectsCallBack = new Callback<List<GameObject>>() {
 
         @Override

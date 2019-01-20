@@ -1,10 +1,12 @@
 package dsa.eetac.upc.edu;
 
+import com.fasterxml.jackson.annotation.JsonSubTypes;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
 import java.util.List;
 
+import okhttp3.MediaType;
 import retrofit2.Call;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;

@@ -2,6 +2,18 @@ package dsa.eetac.upc.edu;
 
 public class UserAttributes {
     int currentHealth, maxHealth,attack,checkPoint,points,enemiesKilled,level,user_id;
+
+    public UserAttributes(int currentHealth, int maxHealth, int attack, int checkPoint, int points, int enemiesKilled, int level, int user_id) {
+        this.currentHealth = currentHealth;
+        this.maxHealth = maxHealth;
+        this.attack = attack;
+        this.checkPoint = checkPoint;
+        this.points = points;
+        this.enemiesKilled = enemiesKilled;
+        this.level = level;
+        this.user_id = user_id;
+    }
+
     public UserAttributes(){}
 
     public int getCurrentHealth() {
