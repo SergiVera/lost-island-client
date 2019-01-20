@@ -43,6 +43,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        int id = Integer.parseInt(getIntent().getExtras().getString("id"));
         shopBtn = findViewById(R.id.shop_btn);
         scoreboardBtn = findViewById(R.id.score_btn);
 
@@ -69,7 +70,7 @@ public class MainActivity extends AppCompatActivity {
         progressDialog.setCancelable(false);
         progressDialog.setProgressStyle(ProgressDialog.STYLE_HORIZONTAL);
         progressDialog.show();
-        myStatsLoad();
+        myStatsLoad(id);
         progressDialog.hide();
     }
 
@@ -93,8 +94,8 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    public void myStatsLoad(){
-        myapirest.userAttributes(1).enqueue(myStatsCallBack);
+    public void myStatsLoad(int id){
+        myapirest.userAttributes(id).enqueue(myStatsCallBack);
         progressDialog.setTitle("Loading...");
         progressDialog.setMessage("Waiting for the server");
         progressDialog.setCancelable(false);
@@ -201,4 +202,7 @@ public class MainActivity extends AppCompatActivity {
 
         }
     };
+
+
+    
 }

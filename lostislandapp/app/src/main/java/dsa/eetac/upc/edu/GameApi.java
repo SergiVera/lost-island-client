@@ -17,7 +17,7 @@ import retrofit2.http.Part;
 import retrofit2.http.Path;
 
 public interface GameApi {
-    String BASE_URL = "http://147.83.7.155:8080/dsaApp/";
+    String BASE_URL = "http://147.83.7.205:8080/dsaApp/";
 
     static GameApi createAPIRest() {
         Gson gson = new GsonBuilder()
