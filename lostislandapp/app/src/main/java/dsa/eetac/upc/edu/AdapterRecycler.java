@@ -8,6 +8,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 import java.util.ArrayList;
@@ -21,12 +22,20 @@ public class AdapterRecycler extends RecyclerView.Adapter<AdapterRecycler.ViewHo
         notifyDataSetChanged();
     }
     public class ViewHolder extends RecyclerView.ViewHolder {
-        public TextView text;
+        public ImageView image;
+        public TextView name;
+        public TextView type;
+        public TextView points;
+        public TextView cost;
         public Button button;
 
         public ViewHolder(View v) {
             super(v);
-            text = (TextView) v.findViewById(R.id.textView);
+            image = v.findViewById(R.id.image);
+            name = (TextView) v.findViewById(R.id.name_txt);
+            type = (TextView) v.findViewById(R.id.type_txt);
+            points = (TextView) v.findViewById(R.id.points_txt);
+            cost = (TextView) v.findViewById(R.id.cost_txt);
             button = v.findViewById(R.id.button);
         }
     }
@@ -49,8 +58,10 @@ public class AdapterRecycler extends RecyclerView.Adapter<AdapterRecycler.ViewHo
     @Override
     public void onBindViewHolder(AdapterRecycler.ViewHolder holder, int position) {
         GameObject obj = data.get(position);
-        holder.text.setText(obj.getName());
-        holder.button.setText("BUY");
+        holder.name.setText(obj.getName());
+        holder.type.setText(obj.getType());
+        holder.points.setText(obj.getObjectPoints());
+        holder.cost.setText(obj.getCost());
     }
 
     @Override

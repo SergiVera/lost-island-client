@@ -99,6 +99,10 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    public void buyObjectClick(View v){
+        //myapirest.buyObject(id,idObject).enqueue(buyObjectCall);
+    }
+
     public void myStatsLoad() {
         myapirest.userAttributes(id).enqueue(myStatsCallBack);
         progressDialog.setTitle("Loading...");
@@ -112,6 +116,7 @@ public class MainActivity extends AppCompatActivity {
     public void deleteAntennaPart(int idGameObject){
         myapirest.deleteAntennaPart(id,idGameObject).enqueue(deleteAntennaPartCall);
     }
+
 
     public void deleteEnemyUser(int idEnemy){
         myapirest.deleteEnemyUser(id,idEnemy).enqueue(deleteEnemyUserCall);
