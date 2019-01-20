@@ -62,7 +62,6 @@ public class MainActivity extends AppCompatActivity {
         listObjects.setHasFixedSize(true);
         listObjects.setLayoutManager(new LinearLayoutManager(MainActivity.this));
         createGameApi();
-        myStatsLoad();
         //Progress loading
         progressDialog = new ProgressDialog(this);
         progressDialog.setTitle("Loading...");
@@ -70,6 +69,7 @@ public class MainActivity extends AppCompatActivity {
         progressDialog.setCancelable(false);
         progressDialog.setProgressStyle(ProgressDialog.STYLE_HORIZONTAL);
         progressDialog.show();
+        myStatsLoad();
         progressDialog.hide();
     }
     private void createGameApi() {
@@ -83,9 +83,6 @@ public class MainActivity extends AppCompatActivity {
         gameApi = retrofit.create(GameApi.class);
     }
     public void listObjectsClick(View v){
-        unityButton.setVisibility(View.INVISIBLE);
-        scoreboardBtn.setVisibility(View.INVISIBLE);
-        listObjects.setVisibility(View.VISIBLE);
         gameApi.getAllObjects().enqueue(objectsCallBack);
         progressDialog.setTitle("Loading...");
         progressDialog.setMessage("Waiting for the server");
