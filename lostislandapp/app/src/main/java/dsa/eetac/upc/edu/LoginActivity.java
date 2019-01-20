@@ -47,6 +47,7 @@ import static android.Manifest.permission.READ_CONTACTS;
 public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<Cursor> {
 
     private GameApi myapirest;
+    private int id;
 
     /**
      * Id to identity READ_CONTACTS permission request.
@@ -181,7 +182,7 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
                     View focusView = null;
 
                     addCredentials(email.concat("@example.com"), password);
-
+                    id = response.body().getUser_id();
                     // Check for a valid password, if the user entered one.
                     if (!TextUtils.isEmpty(password) && !isPasswordValid(password)) {
                         mPasswordView.setError(getString(R.string.error_invalid_password));
@@ -390,6 +391,7 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
 
     private void newIntent(){
         Intent intent = new Intent(this, MainActivity.class);
+        intent.putExtra("id",id);
         startActivity(intent);
     }
 }
