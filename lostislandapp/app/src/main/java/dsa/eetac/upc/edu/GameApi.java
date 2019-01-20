@@ -50,7 +50,7 @@ public interface GameApi {
      * @return List of GameObject
      */
     @GET("objects/allobjects")
-    Call<List<GameObject>> allObjects();
+    Call<List<GameObject>> getAllObjects();
     /**
      * Get the scoreboard about all users
      * @return List of Stats
@@ -101,14 +101,78 @@ public interface GameApi {
      */
     @PUT("users/{idUser}/finishgame")
     Call<Void> finishUserGame(@Path("idUser") int idUser);
+
     /**
-     *
-     * @param id_user
+     * Update the attributes of the user when user grabs a poison from the floor. This function is only called by Unity
+     * @param idUser ID of the user
+     * @param idGameObject ID of the object
+     */
+    @PUT("users/{idUser}/modifyattributes/{idGameObject}")
+    Call<Void> updateUserAttributes(@Path("idUser") int idUser, @Path("idGameObject") int idGameObject);
+
+    /**
+     * Get all objects of a user
+     * @param idUser ID of the user
+     * @return List of GameObject
+     */
+    @GET("users/{idUser}/objects")
+    Call<List<GameObject>> getAllObjectsUser(@Path("idUser") int idUser);
+
+    /**
+     * Sell an object of a user
+     * @param id ID of the user
+     * @param idGameObject ID of the object
+     */
+    @DELETE("users/{idUser}/sellobject/{idGameObject}")
+    Call<Void> sellObject(@Path("idUser") int id,@Path("idGameObject") int idGameObject);
+
+    /**
+     * Get the stats of a user
+     * @param idUser ID of the user
+     * @return Stats class
+     */
+    @GET("users/{idUser}/stats")
+    Call<Stats> getUserStats(@Path("idUser") int idUser);
+
+    /**
+     * Update the life of the enemy of a user. This function is only called by Unity
+     * @param idUser ID of the user
+     * @param idEnemy ID of the enemy
+     * @param enemyLife integer of life of the enemy to update
+     */
+    @PUT("users/{idUser}/update-enemy/{idEnemy}/{enemyLife}")
+    Call<Void> updateEnemyUser(@Path("idUser") int idUser, @Path("idEnemy") int idEnemy, @Path("enemyLife") int enemyLife);
+
+    /**
+     * Update the currentHealth of a user. This function is only called by Unity
+     * @param idUser ID of the user
+     * @param currentHealth integer of currentHealth of a user
      * @return
      */
-    @GET("users/{idUser}/enemies")
-    Call<List<Enemy>>userEnemies(@Path("idUser") int id_user);
+    @PUT("users/{idUser}/updatecurrenthealth/{currentHealth}")
+    Call<Void> updateCurrentHealthUser(@Path("idUser") int idUser, @Path("currentHealth") int currentHealth);
 
-    @DELETE("users/{idUser}/sellobject/{idGameObject}")
-    Call<Void> sellObject(@Path("idUser") int id,@Path("idGameObject") int idGameObj);
+    /**
+     * Update the killed enemies of a user. This function is only called bu Unity
+     * @param idUser ID of the user
+     * @param enemiesKilled integer of enemiesKilled of a user
+     */
+    @PUT("users/{idUser}/updatekilledenemies/{enemiesKilled}")
+    Call<Void> updateKilledEnemiesUser(@Path("idUser") int idUser, @Path("enemiesKilled") int enemiesKilled);
+
+    /**
+     * Update the points of the user. This function is only called by Unity
+     * @param idUser ID of the user
+     * @param points integer of points of the user
+     */
+    @PUT("users/{idUser}/updatepoints/{points}")
+    Call<Void> updatePointsUser(@Path("idUser") int idUser, @Path("points") int points);
+
+    /**
+     * Update the status of the user (the where the user is in). This function is only called by Unity
+     * @param idUser ID of the user
+     * @param idGameMap ID of the map
+     */
+    @PUT("maps/{idUser}/savestatus/{idGameMap}")
+    Call<Void> updateStatusUser(@Path("idUser") int idUser, @Path("idGameMap") int idGameMap);
 }
