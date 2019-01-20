@@ -38,6 +38,7 @@ public class MainActivity extends AppCompatActivity {
 
     private String idintent;
     private int id =1;
+    private String username = "Sergi";
 
     ProgressDialog progressDialog;
     AdapterRecycler adapter;
@@ -53,6 +54,7 @@ public class MainActivity extends AppCompatActivity {
         scoreboardBtn = findViewById(R.id.score_btn);
 
         userText = findViewById(R.id.username_txt);
+        userText.setText("Username: "+ username);
         moneyText = findViewById(R.id.money_txt);
         levelText = findViewById(R.id.level_txt);
 
@@ -100,7 +102,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void returnBtnClick(View v){
-        myapirest.allStats().enqueue(statsCallBack);
+        myapirest.userAttributes(id).enqueue(myStatsCallBack);
         progressDialog.setTitle("Loading...");
         progressDialog.setMessage("Waiting for the server");
         progressDialog.setCancelable(false);
@@ -268,9 +270,6 @@ public class MainActivity extends AppCompatActivity {
                 data.addAll(response.body());
                 Collections.sort(data, (d1, d2) -> d1.getUsername().compareTo(d2.getUsername()));
                 listObjects.setAdapter(new AdapterRecyclerStats(data));
-                userText.setText("Username: " + data.get(0).getUsername());
-                levelText.setText("Level: " + data.get(0).getLevel());
-                moneyText.setText("Points: " + data.get(0).getPoints());
                 progressDialog.hide();
             } else {
                 Log.d("QuestionsCallback", "Code: " + response.code() + " Message: " + response.message());
@@ -303,6 +302,8 @@ public class MainActivity extends AppCompatActivity {
                 List<UserAttributes> data = new ArrayList<>();
                 data.add(response.body());
                 listObjects.setAdapter(new AdapterRecyclerUserStats(data));
+                levelText.setText("Level: " + data.get(id-1).getLevel());
+                moneyText.setText("Points: " + data.get(id-1).getPoints());
                 progressDialog.hide();
             } else {
                 Log.d("QuestionsCallback", "Code: " + response.code() + " Message: " + response.message());
