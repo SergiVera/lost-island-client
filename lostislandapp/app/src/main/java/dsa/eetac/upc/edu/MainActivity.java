@@ -99,6 +99,15 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    public void returnBtnClick(View v){
+        myapirest.allStats().enqueue(statsCallBack);
+        progressDialog.setTitle("Loading...");
+        progressDialog.setMessage("Waiting for the server");
+        progressDialog.setCancelable(false);
+        progressDialog.setProgressStyle(ProgressDialog.STYLE_HORIZONTAL);
+        progressDialog.show();
+    }
+
     public void myStatsLoad() {
         myapirest.userAttributes(id).enqueue(myStatsCallBack);
         progressDialog.setTitle("Loading...");
