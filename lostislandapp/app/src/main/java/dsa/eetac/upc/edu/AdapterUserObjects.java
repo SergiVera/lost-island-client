@@ -1,5 +1,6 @@
 package dsa.eetac.upc.edu;
 
+import android.app.AlertDialog;
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
 import android.util.Log;
@@ -32,6 +33,15 @@ public class AdapterUserObjects extends RecyclerView.Adapter<AdapterUserObjects.
         public void onResponse(Call<Void> call, Response<Void> response) {
             if (response.isSuccessful()) {
                 Log.i("bought",response.message());
+                //Show the alert dialog
+                AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(context);
+
+                alertDialogBuilder
+                        .setTitle("comprado!")
+                        .setCancelable(false);
+
+                AlertDialog alertDialog = alertDialogBuilder.create();
+                alertDialog.show();
             } else {
                 Log.d("QuestionsCallback", "Code: " + response.code() + " Message: " + response.message());
             }

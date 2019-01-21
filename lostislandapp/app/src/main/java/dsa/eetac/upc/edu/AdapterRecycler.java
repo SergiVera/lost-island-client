@@ -36,6 +36,15 @@ public class AdapterRecycler extends RecyclerView.Adapter<AdapterRecycler.ViewHo
         public void onResponse(Call<Void> call, Response<Void> response) {
             if (response.isSuccessful()) {
                Log.i("comprado!", response.message());
+                //Show the alert dialog
+                AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(context);
+
+                alertDialogBuilder
+                        .setTitle("comprado!")
+                        .setCancelable(false);
+
+                AlertDialog alertDialog = alertDialogBuilder.create();
+                alertDialog.show();
             } else {
                 Log.i("estoy en el else", response.message());
             }
