@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
     private TextView levelText;
 
     private String idintent;
-    private int id =2;
+    private int id =1;
     private String username = "Sergi";
 
     ProgressDialog progressDialog;

@@ -118,7 +118,7 @@ public class AdapterRecycler extends RecyclerView.Adapter<AdapterRecycler.ViewHo
                 buyItem(id,obj.getId());
             }
         });
-        Picasso.with(context).load(new File("C:\\Users\\carli\\Desktop\\DSA\\ClienteDSA_INTEGRATION\\lost-island-client\\lostislandapp\\app\\src\\main\\res\\drawable\\"+obj.getName()+".jpg"))
+        Picasso.with(context).load("147.83.7.155:8080/resources/"+obj.getName()+".png")
                 .into(holder.image);
 
 
@@ -131,7 +131,7 @@ public class AdapterRecycler extends RecyclerView.Adapter<AdapterRecycler.ViewHo
 
     public void buyItem(int id, int idObject){
         myapirest.buyObject(id, idObject).enqueue(buyObjectCall);
-        myapirest.userAttributes(id).enqueue(myStatsCallBack);
+        //myapirest.userAttributes(id).enqueue(myStatsCallBack);
     }
 
 }
