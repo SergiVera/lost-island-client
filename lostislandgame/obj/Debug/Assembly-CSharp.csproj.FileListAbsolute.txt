@@ -1,0 +1,1039 @@
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/Assembly-CSharp.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/Assembly-CSharp.pdb
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/Boo.Lang.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/mscorlib.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/System.Core.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/System.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/System.Runtime.Serialization.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/System.Xml.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/System.Xml.Linq.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/Unity.Locator.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/Unity.PackageManagerUI.Editor.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/Unity.TextMeshPro.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/Unity.TextMeshPro.Editor.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEditor.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEditor.StandardEvents.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.AIModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.Analytics.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.AnimationModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.ARModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.AudioModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.BaselibModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.ClothModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.CoreModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.DirectorModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.FacebookModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.GameCenterModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.GridModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.HoloLens.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.HotReloadModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.IMGUIModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.InputModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.LocalizationModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.Networking.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.Physics2DModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.PhysicsModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.ProfilerModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.StandardEvents.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.StreamingModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.SubstanceModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.TerrainModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.TilemapModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.Timeline.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.TimelineModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.TLSModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.UI.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.UIElementsModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.UIModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.UmbraModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.UNETModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.VehiclesModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.VideoModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.VRModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.WindModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.XRModule.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityScript.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityScript.Lang.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/Unity.Cecil.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/Unity.SerializationLogic.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/Unity.DataContract.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/ExCSS.Unity.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/Boo.Lang.Parser.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/Boo.Lang.Compiler.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/Unity.IvyParser.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/Boo.Lang.PatternMatching.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/Boo.Lang.Useful.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/Unity.CecilTools.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEditor.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.AIModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.ARModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.AccessibilityModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.AnimationModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.AssetBundleModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.AudioModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.BaselibModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.ClothModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.ClusterInputModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.ClusterRendererModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.CoreModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.CrashReportingModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.DirectorModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.FacebookModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.GameCenterModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.GridModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.HotReloadModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.IMGUIModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.ImageConversionModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.InputModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.JSONSerializeModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.LocalizationModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.ParticleSystemModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.PhysicsModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.Physics2DModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.ProfilerModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.SharedInternalsModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.SpriteMaskModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.SpriteShapeModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.StreamingModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.StyleSheetsModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.SubstanceModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.TLSModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.TerrainModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.TextRenderingModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.TilemapModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.TimelineModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.UIModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.UIElementsModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.UNETModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.UmbraModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityConnectModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.VRModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.VehiclesModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.VideoModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.WindModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.XRModule.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.UI.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.Timeline.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.Networking.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.HoloLens.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/Temp/bin/Debug/UnityEngine.SpatialTracking.xml
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/obj/Debug/Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/obj/Debug/Assembly-CSharp.dll
+C:/Users/marcb/OneDrive - estudiant.upc.edu/UNI/DSA/Unity/Prueba/JuegoDSA/JuegoDSA/obj/Debug/Assembly-CSharp.pdb
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/Assembly-CSharp.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/Assembly-CSharp.pdb
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/Boo.Lang.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/mscorlib.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/nunit.framework.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/System.Core.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/System.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/System.Runtime.Serialization.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/System.Xml.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/System.Xml.Linq.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/Unity.Analytics.DataPrivacy.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/Unity.Analytics.Editor.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/Unity.Analytics.StandardEvents.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/Unity.Analytics.Tracker.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/Unity.CollabProxy.Editor.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/Unity.Locator.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/Unity.PackageManagerUI.Editor.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/Unity.TextMeshPro.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/Unity.TextMeshPro.Editor.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEditor.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.Advertisements.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.Advertisements.Editor.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.AIModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.AnimationModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.ARModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.AudioModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.BaselibModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.ClothModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.CoreModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.DirectorModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.GameCenterModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.GridModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.HotReloadModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.IMGUIModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.InputModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.LocalizationModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.Networking.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.Physics2DModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.PhysicsModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.ProfilerModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.StreamingModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.SubstanceModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.TerrainModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.TestRunner.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.TextCoreModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.TilemapModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.Timeline.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.TimelineModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.TLSModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.UI.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.UIElementsModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.UIModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.UmbraModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.UNETModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityTestProtocolModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.VehiclesModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.VFXModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.VideoModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.VRModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.WindModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.XRModule.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityScript.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityScript.Lang.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/Unity.Cecil.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/Unity.SerializationLogic.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/Unity.DataContract.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/ExCSS.Unity.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/Unity.UNetWeaver.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/Unity.IvyParser.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/Boo.Lang.Compiler.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/Boo.Lang.PatternMatching.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/Boo.Lang.Parser.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/Boo.Lang.Useful.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/Unity.CecilTools.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEditor.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.AIModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.ARModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.AccessibilityModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.AnimationModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.AssetBundleModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.AudioModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.BaselibModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.ClothModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.ClusterInputModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.ClusterRendererModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.CoreModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.CrashReportingModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.DirectorModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.GameCenterModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.GridModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.HotReloadModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.IMGUIModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.ImageConversionModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.InputModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.JSONSerializeModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.LocalizationModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.ParticleSystemModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.PhysicsModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.Physics2DModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.ProfilerModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.SharedInternalsModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.SpriteMaskModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.SpriteShapeModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.StreamingModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.StyleSheetsModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.SubstanceModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.TLSModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.TerrainModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.TextCoreModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.TextRenderingModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.TilemapModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.TimelineModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.UIModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.UIElementsModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.UNETModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.UmbraModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityConnectModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityTestProtocolModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.VFXModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.VRModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.VehiclesModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.VideoModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.WindModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.XRModule.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.UI.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.TestRunner.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/nunit.framework.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.Timeline.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.Networking.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/Temp/bin/Debug/UnityEngine.SpatialTracking.xml
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/obj/Debug/Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/obj/Debug/Assembly-CSharp.dll
+C:/Users/marcb/Desktop/Unity - copia/JuegoDSA/obj/Debug/Assembly-CSharp.pdb
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/Assembly-CSharp.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/Assembly-CSharp.pdb
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/Boo.Lang.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/mscorlib.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/nunit.framework.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/System.Core.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/System.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/System.Runtime.Serialization.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/System.Xml.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/System.Xml.Linq.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/Unity.Analytics.DataPrivacy.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/Unity.Analytics.Editor.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/Unity.Analytics.StandardEvents.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/Unity.Analytics.Tracker.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/Unity.CollabProxy.Editor.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/Unity.Locator.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/Unity.PackageManagerUI.Editor.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/Unity.TextMeshPro.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/Unity.TextMeshPro.Editor.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEditor.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.Advertisements.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.Advertisements.Editor.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.AIModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.AnimationModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.ARModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.AudioModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.BaselibModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.ClothModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.CoreModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.DirectorModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.GameCenterModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.GridModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.HotReloadModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.IMGUIModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.InputModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.LocalizationModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.Networking.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.Physics2DModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.PhysicsModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.ProfilerModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.StreamingModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.SubstanceModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.TerrainModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.TestRunner.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.TextCoreModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.TilemapModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.Timeline.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.TimelineModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.TLSModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.UI.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.UIElementsModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.UIModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.UmbraModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.UNETModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityTestProtocolModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.VehiclesModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.VFXModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.VideoModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.VRModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.WindModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.XRModule.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityScript.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityScript.Lang.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/Unity.Cecil.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/Unity.SerializationLogic.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/Unity.DataContract.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/ExCSS.Unity.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/Unity.UNetWeaver.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/Unity.IvyParser.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/Boo.Lang.Compiler.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/Boo.Lang.PatternMatching.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/Boo.Lang.Parser.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/Boo.Lang.Useful.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/Unity.CecilTools.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEditor.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.AIModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.ARModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.AccessibilityModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.AnimationModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.AssetBundleModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.AudioModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.BaselibModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.ClothModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.ClusterInputModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.ClusterRendererModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.CoreModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.CrashReportingModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.DirectorModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.GameCenterModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.GridModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.HotReloadModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.IMGUIModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.ImageConversionModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.InputModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.JSONSerializeModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.LocalizationModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.ParticleSystemModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.PhysicsModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.Physics2DModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.ProfilerModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.SharedInternalsModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.SpriteMaskModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.SpriteShapeModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.StreamingModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.StyleSheetsModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.SubstanceModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.TLSModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.TerrainModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.TextCoreModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.TextRenderingModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.TilemapModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.TimelineModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.UIModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.UIElementsModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.UNETModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.UmbraModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityConnectModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityTestProtocolModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.VFXModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.VRModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.VehiclesModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.VideoModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.WindModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.XRModule.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.UI.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.TestRunner.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/nunit.framework.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.Timeline.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.Networking.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/Temp/bin/Debug/UnityEngine.SpatialTracking.xml
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/obj/Debug/Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/obj/Debug/Assembly-CSharp.dll
+C:/Users/marcb/Desktop/Unity - copia BUENA/JuegoDSA/obj/Debug/Assembly-CSharp.pdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/Assembly-CSharp.pdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/Boo.Lang.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/mscorlib.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/nunit.framework.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/System.Core.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/System.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/System.Runtime.Serialization.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/System.Xml.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/System.Xml.Linq.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/Unity.Analytics.DataPrivacy.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/Unity.Analytics.Editor.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/Unity.Analytics.StandardEvents.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/Unity.Analytics.Tracker.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/Unity.CollabProxy.Editor.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/Unity.Locator.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/Unity.PackageManagerUI.Editor.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/Unity.TextMeshPro.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/Unity.TextMeshPro.Editor.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEditor.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.Advertisements.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.Advertisements.Editor.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.AIModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.AnimationModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.ARModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.AudioModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.BaselibModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.ClothModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.CoreModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.DirectorModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.GameCenterModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.GridModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.HotReloadModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.IMGUIModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.InputModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.LocalizationModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.Physics2DModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.PhysicsModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.ProfilerModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.StreamingModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.SubstanceModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.TerrainModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.TestRunner.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.TextCoreModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.TilemapModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.TimelineModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.TLSModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.UIElementsModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.UIModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.UmbraModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.UNETModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityTestProtocolModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.VehiclesModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.VFXModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.VideoModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.VRModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.WindModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.XRModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityScript.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityScript.Lang.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/Unity.Cecil.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/Unity.DataContract.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/Unity.IvyParser.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/Mono.Security.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/Boo.Lang.Compiler.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/Boo.Lang.PatternMatching.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/Boo.Lang.Parser.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/Boo.Lang.Useful.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEditor.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEditor.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/Unity.TextMeshPro.Editor.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/Unity.PackageManagerUI.Editor.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/Unity.CollabProxy.Editor.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/Unity.TextMeshPro.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/Unity.Analytics.DataPrivacy.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.AIModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.AIModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.ARModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.ARModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.AccessibilityModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.AnimationModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.AnimationModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.AssetBundleModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.AudioModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.AudioModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.BaselibModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.BaselibModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.ClothModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.ClothModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.ClusterInputModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.ClusterRendererModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.CoreModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.CoreModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.CrashReportingModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.DirectorModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.DirectorModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.GameCenterModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.GameCenterModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.GridModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.GridModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.HotReloadModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.HotReloadModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.IMGUIModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.IMGUIModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.ImageConversionModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.InputModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.InputModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.JSONSerializeModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.LocalizationModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.LocalizationModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.ParticleSystemModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.PhysicsModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.PhysicsModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.Physics2DModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.Physics2DModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.ProfilerModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.ProfilerModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.SharedInternalsModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.SpriteMaskModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.SpriteShapeModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.StreamingModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.StreamingModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.StyleSheetsModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.SubstanceModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.SubstanceModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.TLSModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.TLSModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.TerrainModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.TerrainModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.TextCoreModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.TextCoreModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.TextRenderingModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.TilemapModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.TilemapModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.TimelineModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.TimelineModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.UIModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.UIModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.UIElementsModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.UIElementsModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.UNETModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.UNETModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.UmbraModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.UmbraModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityConnectModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityTestProtocolModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityTestProtocolModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.VFXModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.VFXModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.VRModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.VRModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.VehiclesModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.VehiclesModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.VideoModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.VideoModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.WindModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.WindModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.XRModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.XRModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/Unity.Locator.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.UI.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.UI.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.TestRunner.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.TestRunner.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/nunit.framework.pdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/nunit.framework.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.Timeline.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.Timeline.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.Networking.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.Networking.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.SpatialTracking.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/UnityEngine.SpatialTracking.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/Unity.Analytics.Tracker.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/Unity.Analytics.Editor.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/Unity.Analytics.StandardEvents.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/Temp/bin/Debug/Unity.IvyParser.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/obj/Debug/Assembly-CSharp.csproj.CopyComplete
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/obj/Debug/Assembly-CSharp.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/lost-island-client/JuegoDSA/obj/Debug/Assembly-CSharp.pdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/Assembly-CSharp.pdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/Boo.Lang.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/mscorlib.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/nunit.framework.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/System.Core.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/System.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/System.Runtime.Serialization.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/System.Xml.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/System.Xml.Linq.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/Unity.Analytics.DataPrivacy.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/Unity.Analytics.Editor.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/Unity.Analytics.StandardEvents.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/Unity.Analytics.Tracker.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/Unity.CollabProxy.Editor.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/Unity.Locator.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/Unity.PackageManagerUI.Editor.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/Unity.TextMeshPro.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/Unity.TextMeshPro.Editor.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEditor.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.Advertisements.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.Advertisements.Editor.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.AIModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.AnimationModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.ARModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.AudioModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.BaselibModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.ClothModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.CoreModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.DirectorModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.GameCenterModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.GridModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.HotReloadModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.IMGUIModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.InputModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.LocalizationModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.Physics2DModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.PhysicsModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.ProfilerModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.StreamingModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.SubstanceModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.TerrainModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.TestRunner.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.TextCoreModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.TilemapModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.TimelineModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.TLSModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.UIElementsModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.UIModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.UmbraModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.UNETModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityTestProtocolModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.VehiclesModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.VFXModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.VideoModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.VRModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.WindModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.XRModule.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityScript.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityScript.Lang.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/Unity.Cecil.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/Unity.DataContract.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/Unity.IvyParser.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/Mono.Security.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/Boo.Lang.Compiler.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/Boo.Lang.PatternMatching.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/Boo.Lang.Parser.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/Boo.Lang.Useful.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEditor.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEditor.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/Unity.TextMeshPro.Editor.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/Unity.PackageManagerUI.Editor.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/Unity.CollabProxy.Editor.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/Unity.TextMeshPro.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/Unity.Analytics.DataPrivacy.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.AIModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.AIModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.ARModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.ARModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.AccessibilityModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.AnimationModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.AnimationModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.AssetBundleModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.AudioModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.AudioModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.BaselibModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.BaselibModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.ClothModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.ClothModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.ClusterInputModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.ClusterRendererModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.CoreModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.CoreModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.CrashReportingModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.DirectorModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.DirectorModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.GameCenterModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.GameCenterModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.GridModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.GridModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.HotReloadModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.HotReloadModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.IMGUIModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.IMGUIModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.ImageConversionModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.InputModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.InputModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.JSONSerializeModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.LocalizationModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.LocalizationModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.ParticleSystemModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.PhysicsModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.PhysicsModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.Physics2DModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.Physics2DModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.ProfilerModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.ProfilerModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.SharedInternalsModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.SpriteMaskModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.SpriteShapeModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.StreamingModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.StreamingModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.StyleSheetsModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.SubstanceModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.SubstanceModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.TLSModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.TLSModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.TerrainModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.TerrainModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.TextCoreModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.TextCoreModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.TextRenderingModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.TilemapModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.TilemapModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.TimelineModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.TimelineModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.UIModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.UIModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.UIElementsModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.UIElementsModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.UNETModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.UNETModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.UmbraModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.UmbraModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityConnectModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityTestProtocolModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityTestProtocolModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.VFXModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.VFXModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.VRModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.VRModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.VehiclesModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.VehiclesModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.VideoModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.VideoModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.WindModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.WindModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.XRModule.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.XRModule.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/Unity.Locator.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.UI.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.UI.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.TestRunner.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.TestRunner.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/nunit.framework.pdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/nunit.framework.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.Timeline.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.Timeline.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.Networking.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.Networking.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.SpatialTracking.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/UnityEngine.SpatialTracking.xml
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/Unity.Analytics.Tracker.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/Unity.Analytics.Editor.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/Unity.Analytics.StandardEvents.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/Temp/bin/Debug/Unity.IvyParser.dll.mdb
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/obj/Debug/Assembly-CSharp.csproj.CopyComplete
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/obj/Debug/Assembly-CSharp.dll
+/Users/sergiveramartinez/Documents/Universidad/3 Curs/1er Quadrimestre/DSA/GIT/provLI/JuegoDSA/obj/Debug/Assembly-CSharp.pdb

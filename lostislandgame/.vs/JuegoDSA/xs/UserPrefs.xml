@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{9D759245-9600-765C-ED1A-8ACB172DE508}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Game Stuff/APIManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Game Stuff/APIManager.cs" Line="59" Column="1" />
+      <File FileName="Assets/Scripts/Game Stuff/CameraMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Game Stuff/Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Game Stuff/HeartManager.cs" Line="33" Column="47" />
+      <File FileName="Assets/Scripts/Game Stuff/Joybutton.cs" Line="23" Column="6" />
+      <File FileName="Assets/Scripts/Game Stuff/PlayerMovement.cs" Line="55" Column="20" />
+      <File FileName="Assets/Scripts/Objects/Chest.cs" Line="43" Column="28" />
+      <File FileName="Assets/Scripts/ScriptableObjects/Inventory.cs" Line="28" Column="1" />
+      <File FileName="Assets/Scripts/Objects/Sign.cs" Line="31" Column="17" />
+      <File FileName="Assets/Scripts/Game Stuff/SignalListener.cs" Line="14" Column="1" />
+      <File FileName="Assets/Scripts/ScriptableObjects/Signal.cs" Line="17" Column="1" />
+      <File FileName="Assets/Scripts/Game Stuff/GameMaster.cs" Line="11" Column="29" />
+      <File FileName="Assets/Scripts/Game Stuff/UserStats.cs" Line="6" Column="15" />
+      <File FileName="Assets/Scripts/Game Stuff/Knockback.cs" Line="40" Column="87" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
