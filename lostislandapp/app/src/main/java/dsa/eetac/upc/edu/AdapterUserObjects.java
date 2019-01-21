@@ -1,9 +1,6 @@
 package dsa.eetac.upc.edu;
 
-import android.app.AlertDialog;
 import android.content.Context;
-import android.graphics.Color;
-import android.support.annotation.NonNull;
 import android.support.v7.widget.RecyclerView;
 import android.util.Log;
 import android.view.LayoutInflater;
@@ -23,27 +20,26 @@ import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
 
-public class AdapterRecycler extends RecyclerView.Adapter<AdapterRecycler.ViewHolder> {
+public class AdapterUserObjects extends RecyclerView.Adapter<AdapterUserObjects.ViewHolder> {
     public Context context;
-    public List<GameObject> data;
+    private List<GameObject> data;
     public int id;
     private GameApi myapirest;
     TextView moneyText;
 
-    Callback<Void> buyObjectCall = new Callback<Void>() {
-
+    Callback<Void> sellObjectCall = new Callback<Void>() {
         @Override
         public void onResponse(Call<Void> call, Response<Void> response) {
             if (response.isSuccessful()) {
-               Log.i("comprado!", response.message());
+                Log.i("bought",response.message());
             } else {
-                Log.i("estoy en el else", response.message());
+                Log.d("QuestionsCallback", "Code: " + response.code() + " Message: " + response.message());
             }
         }
 
         @Override
         public void onFailure(Call<Void> call, Throwable t) {
-            Log.e("ha fallado!", t.getMessage());
+
         }
     };
 
@@ -54,6 +50,7 @@ public class AdapterRecycler extends RecyclerView.Adapter<AdapterRecycler.ViewHo
             if (response.isSuccessful()) {
                 UserAttributes data = response.body();
                 moneyText.setText("Points: " + data.getPoints());
+
             } else {
                 Log.d("QuestionsCallback", "Code: " + response.code() + " Message: " + response.message());
             }
@@ -64,6 +61,7 @@ public class AdapterRecycler extends RecyclerView.Adapter<AdapterRecycler.ViewHo
 
         }
     };
+
     public void addElements(List<GameObject> elementList, int id) {
         data.addAll(elementList);
         notifyDataSetChanged();
@@ -90,32 +88,33 @@ public class AdapterRecycler extends RecyclerView.Adapter<AdapterRecycler.ViewHo
         }
     }
 
-    public AdapterRecycler(List<GameObject> list) {
+    public AdapterUserObjects(List<GameObject> list) {
         this.data = list;
     }
-    public AdapterRecycler(Context context) {
+    public AdapterUserObjects(Context context) {
         this.data = new ArrayList<>();
         this.context = context;
     }
 
     @Override
-    public AdapterRecycler.ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
+    public AdapterUserObjects.ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
         View v;
         v = LayoutInflater.from(parent.getContext()).inflate(R.layout.item, parent, false);
-        return new ViewHolder(v);
+        return new AdapterUserObjects.ViewHolder(v);
     }
 
     @Override
-    public void onBindViewHolder(AdapterRecycler.ViewHolder holder, int position) {
+    public void onBindViewHolder(AdapterUserObjects.ViewHolder holder, int position) {
         GameObject obj = data.get(position);
         holder.name.setText(obj.getName());
         holder.type.setText(obj.getType());
         holder.points.setText(Integer.toString(obj.getObjectPoints()));
         holder.cost.setText(Integer.toString(obj.getCost()));
+        holder.button.setText("Sell");
         holder.button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                buyItem(id,obj.getId());
+                sellItem(id,obj.getId());
             }
         });
         Picasso.with(context).load(new File("C:\\Users\\carli\\Desktop\\DSA\\ClienteDSA_INTEGRATION\\lost-island-client\\lostislandapp\\app\\src\\main\\res\\drawable\\"+obj.getName()+".jpg"))
@@ -128,12 +127,10 @@ public class AdapterRecycler extends RecyclerView.Adapter<AdapterRecycler.ViewHo
     public int getItemCount() {
         return data.size();
     }
-
-    public void buyItem(int id, int idObject){
-        myapirest.buyObject(id, idObject).enqueue(buyObjectCall);
+    public void sellItem(int id, int idObject){
+        myapirest.buyObject(id, idObject).enqueue(sellObjectCall);
         myapirest.userAttributes(id).enqueue(myStatsCallBack);
     }
-
 }
 
 

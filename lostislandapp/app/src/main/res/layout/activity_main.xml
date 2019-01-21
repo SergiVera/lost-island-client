@@ -16,7 +16,7 @@
         android:layout_marginTop="45dp"
         android:layout_marginEnd="8dp"
         android:layout_marginBottom="45dp"
-        android:background="@android:drawable/toast_frame"
+        android:background="@android:drawable/title_bar"
         android:visibility="visible"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

@@ -12,9 +12,6 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
-import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
@@ -22,8 +19,6 @@ import java.util.List;
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
-import retrofit2.Retrofit;
-import retrofit2.converter.gson.GsonConverterFactory;
 
 public class MainActivity extends AppCompatActivity {
     private GameApi myapirest;
@@ -37,11 +32,12 @@ public class MainActivity extends AppCompatActivity {
     private TextView levelText;
 
     private String idintent;
-    private int id =1;
+    private int id =2;
     private String username = "Sergi";
 
     ProgressDialog progressDialog;
     AdapterRecycler adapter;
+    AdapterUserObjects adapterUserObjects;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -66,6 +62,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
         adapter = new AdapterRecycler(this);
+        adapterUserObjects = new AdapterUserObjects(this);
         listObjects = (RecyclerView) findViewById(R.id.recyclerView);
         listObjects.setHasFixedSize(true);
         listObjects.setLayoutManager(new LinearLayoutManager(MainActivity.this));
@@ -102,7 +99,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void returnBtnClick(View v){
-        myapirest.userAttributes(id).enqueue(myStatsCallBack);
+        myStatsLoad();
         progressDialog.setTitle("Loading...");
         progressDialog.setMessage("Waiting for the server");
         progressDialog.setCancelable(false);
@@ -112,6 +109,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void myStatsLoad() {
         myapirest.userAttributes(id).enqueue(myStatsCallBack);
+        myapirest.getAllObjectsUser(id).enqueue(getAllObjectsUserCall);
         progressDialog.setTitle("Loading...");
         progressDialog.setMessage("Waiting for the server");
         progressDialog.setCancelable(false);
@@ -136,7 +134,7 @@ public class MainActivity extends AppCompatActivity {
             public void onResponse(Call<List<Enemy>> call, Response<List<Enemy>> response) {
                 if (response.isSuccessful()) {
                     data.addAll(response.body());
-                    //listObjects.setAdapter(new AdapterRecyclerUserStats(data));
+                    //listObjects.setAdapter(new AdapterUserObjects(data));
                    // progressDialog.hide();
                 } else {
                     Log.d("QuestionsCallback", "Code: " + response.code() + " Message: " + response.message());
@@ -299,11 +297,9 @@ public class MainActivity extends AppCompatActivity {
         @Override
         public void onResponse(Call<UserAttributes> call, Response<UserAttributes> response) {
             if (response.isSuccessful()) {
-                List<UserAttributes> data = new ArrayList<>();
-                data.add(response.body());
-                listObjects.setAdapter(new AdapterRecyclerUserStats(data));
-                levelText.setText("Level: " + data.get(id-1).getLevel());
-                moneyText.setText("Points: " + data.get(id-1).getPoints());
+                UserAttributes data = response.body();
+                levelText.setText("Level: " + data.getLevel());
+                moneyText.setText("Points: " + data.getPoints());
                 progressDialog.hide();
             } else {
                 Log.d("QuestionsCallback", "Code: " + response.code() + " Message: " + response.message());
@@ -326,6 +322,36 @@ public class MainActivity extends AppCompatActivity {
 
         }
     };
+    Callback<List<GameObject>> getAllObjectsUserCall = new Callback<List<GameObject>>() {
+        @Override
+        public void onResponse(Call<List<GameObject>> call, Response<List<GameObject>> response) {
+            if (response.isSuccessful()) {
+                List<GameObject> data = new ArrayList<>();
+                data.addAll(response.body());
+                listObjects.setAdapter(adapterUserObjects);
+                adapterUserObjects.addElements(data,id);
+                progressDialog.hide();
+            } else {
+                Log.d("QuestionsCallback", "Code: " + response.code() + " Message: " + response.message());
+                AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(MainActivity.this);
+
+                alertDialogBuilder
+                        .setTitle("Error")
+                        .setMessage(response.message())
+                        .setCancelable(false)
+                        .setPositiveButton("OK", (dialog, which) -> {
+                        });
+
+                AlertDialog alertDialog = alertDialogBuilder.create();
+                alertDialog.show();
+            }
+        }
+
+        @Override
+        public void onFailure(Call<List<GameObject>> call, Throwable t) {
+
+        }
+    };
 
     Callback<Void> buyObjectCall = new Callback<Void>() {
 
@@ -333,7 +359,7 @@ public class MainActivity extends AppCompatActivity {
         public void onResponse(Call<Void> call, Response<Void> response) {
             if (response.isSuccessful()) {
 
-                //listObjects.setAdapter(new AdapterRecyclerUserStats(data));
+                //listObjects.setAdapter(new AdapterUserObjects(data));
                 progressDialog.hide();
             } else {
                 Log.d("QuestionsCallback", "Code: " + response.code() + " Message: " + response.message());
@@ -362,7 +388,7 @@ public class MainActivity extends AppCompatActivity {
         public void onResponse(Call<Void> call, Response<Void> response) {
             if (response.isSuccessful()) {
 
-                //listObjects.setAdapter(new AdapterRecyclerUserStats(data));
+                //listObjects.setAdapter(new AdapterUserObjects(data));
                 progressDialog.hide();
             } else {
                 Log.d("QuestionsCallback", "Code: " + response.code() + " Message: " + response.message());
@@ -393,7 +419,7 @@ public class MainActivity extends AppCompatActivity {
         public void onResponse(Call<Void> call, Response<Void> response) {
             if (response.isSuccessful()) {
 
-                //listObjects.setAdapter(new AdapterRecyclerUserStats(data));
+                //listObjects.setAdapter(new AdapterUserObjects(data));
                 progressDialog.hide();
             } else {
                 Log.d("QuestionsCallback", "Code: " + response.code() + " Message: " + response.message());
@@ -423,7 +449,7 @@ public class MainActivity extends AppCompatActivity {
         public void onResponse(Call<Void> call, Response<Void> response) {
             if (response.isSuccessful()) {
 
-                //listObjects.setAdapter(new AdapterRecyclerUserStats(data));
+                //listObjects.setAdapter(new AdapterUserObjects(data));
                 progressDialog.hide();
             } else {
                 Log.d("QuestionsCallback", "Code: " + response.code() + " Message: " + response.message());
@@ -453,7 +479,7 @@ public class MainActivity extends AppCompatActivity {
         public void onResponse(Call<Void> call, Response<Void> response) {
             if (response.isSuccessful()) {
 
-                //listObjects.setAdapter(new AdapterRecyclerUserStats(data));
+                //listObjects.setAdapter(new AdapterUserObjects(data));
                 progressDialog.hide();
             } else {
                 Log.d("QuestionsCallback", "Code: " + response.code() + " Message: " + response.message());
@@ -482,7 +508,7 @@ public class MainActivity extends AppCompatActivity {
         public void onResponse(Call<Void> call, Response<Void> response) {
             if (response.isSuccessful()) {
 
-                //listObjects.setAdapter(new AdapterRecyclerUserStats(data));
+                //listObjects.setAdapter(new AdapterUserObjects(data));
                 progressDialog.hide();
             } else {
                 Log.d("QuestionsCallback", "Code: " + response.code() + " Message: " + response.message());
@@ -511,7 +537,7 @@ public class MainActivity extends AppCompatActivity {
         public void onResponse(Call<Void> call, Response<Void> response) {
             if (response.isSuccessful()) {
 
-                //listObjects.setAdapter(new AdapterRecyclerUserStats(data));
+                //listObjects.setAdapter(new AdapterUserObjects(data));
                 progressDialog.hide();
             } else {
                 Log.d("QuestionsCallback", "Code: " + response.code() + " Message: " + response.message());
@@ -540,7 +566,7 @@ public class MainActivity extends AppCompatActivity {
         public void onResponse(Call<Void> call, Response<Void> response) {
             if (response.isSuccessful()) {
 
-                //listObjects.setAdapter(new AdapterRecyclerUserStats(data));
+                //listObjects.setAdapter(new AdapterUserObjects(data));
                 progressDialog.hide();
             } else {
                 Log.d("QuestionsCallback", "Code: " + response.code() + " Message: " + response.message());
@@ -569,7 +595,7 @@ public class MainActivity extends AppCompatActivity {
         public void onResponse(Call<Void> call, Response<Void> response) {
             if (response.isSuccessful()) {
 
-                //listObjects.setAdapter(new AdapterRecyclerUserStats(data));
+                //listObjects.setAdapter(new AdapterUserObjects(data));
                 progressDialog.hide();
             } else {
                 Log.d("QuestionsCallback", "Code: " + response.code() + " Message: " + response.message());
@@ -598,7 +624,7 @@ public class MainActivity extends AppCompatActivity {
         public void onResponse(Call<Void> call, Response<Void> response) {
             if (response.isSuccessful()) {
 
-                //listObjects.setAdapter(new AdapterRecyclerUserStats(data));
+                //listObjects.setAdapter(new AdapterUserObjects(data));
                 progressDialog.hide();
             } else {
                 Log.d("QuestionsCallback", "Code: " + response.code() + " Message: " + response.message());
@@ -627,7 +653,7 @@ public class MainActivity extends AppCompatActivity {
         public void onResponse(Call<Void> call, Response<Void> response) {
             if (response.isSuccessful()) {
 
-                //listObjects.setAdapter(new AdapterRecyclerUserStats(data));
+                //listObjects.setAdapter(new AdapterUserObjects(data));
                 progressDialog.hide();
             } else {
                 Log.d("QuestionsCallback", "Code: " + response.code() + " Message: " + response.message());
@@ -650,5 +676,6 @@ public class MainActivity extends AppCompatActivity {
 
         }
     } ;
+
 }
 
